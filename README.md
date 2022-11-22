@@ -50,5 +50,4 @@
 
 ---
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ariunbat_cs&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<a href="https://app.daily.dev/ariunbat"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ariunbatb/ariunbat/blob/main/devcard.svg" width="300" alt="Ariunbat's Dev Card"/></a>
-</a>
+<a href="https://app.daily.dev/ariunbat"><img src="https://github.com/ariunbatb/ariunbat/blob/main/devcard.svg" width="300" alt="Ariunbat's Dev Card"/></a>
