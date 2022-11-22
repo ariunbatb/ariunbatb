@@ -17,8 +17,8 @@
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
----
 
+---
 ### :woman_technologist: &nbsp;About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
